@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Aruba", "Aruba.pyproj", "{CBC53F25-0F91-432B-9DCE-A6C9AB8ACE7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC53F25-0F91-432B-9DCE-A6C9AB8ACE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC53F25-0F91-432B-9DCE-A6C9AB8ACE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {282B17F1-664F-4FE0-A4CF-9379F2613530}
+	EndGlobalSection
+EndGlobal
